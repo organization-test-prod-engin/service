@@ -12,7 +12,7 @@ import jakarta.annotation.PostConstruct;
 @SpringBootApplication
 @EnableMongoRepositories(basePackageClasses = InformationRepository.class)
 public class HelloApplication {
-
+// This is a test for a pull request.
 	@Autowired
 	private InformationRepository informationRepository;
 
