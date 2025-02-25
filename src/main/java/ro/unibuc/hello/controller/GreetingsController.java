@@ -13,6 +13,7 @@ import ro.unibuc.hello.service.GreetingsService;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
+// controller for greetings!
 @Controller
 public class GreetingsController {
 
